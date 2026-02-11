@@ -1,7 +1,8 @@
 ## Mobile Appication from React Native 
 ## Coffee Shop
 
-<kbd>
+<img width="1080" height="2400" alt="image" src="https://github.com/user-attachments/assets/1ad56e4c-7a41-4e33-9abc-5f0453d2fd46" />
+
 <img width="243" height="555" alt="image" src="https://github.com/user-attachments/assets/039dec71-994b-4afe-9781-470ea1ff6b61" />
 
 <img width="248" height="385" alt="image" src="https://github.com/user-attachments/assets/5bb348ec-fd0a-4873-a5a0-53ed7e847388" />
